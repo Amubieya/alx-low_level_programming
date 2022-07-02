@@ -1,18 +1,11 @@
-echo '#include <stdio.h>
-
+#include <stdio.h>
 /**
- * main - entry point
- *
- * Return: 0 after printing the function
- *
- */
-
+*main - entry point.
+*Description: Prints the description specified
+*Return: always zero(success)
+*/
 int main(void)
-
 {
-
 	puts("\"Programming is like building a multilingual puzzle");
-
 	return (0);
-
 }
