@@ -1,1 +1,1 @@
-this is a readme file for 0x05-pointers_arrays_string
+this is a readme file for the project 0x05-pointers_arrays_string
