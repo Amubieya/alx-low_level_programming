@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #include "main.h"
 
 /**
@@ -27,4 +24,3 @@ char *_strcpy(char *dest, char *src)
 	}
 	return (dest);
 }
->>>>>>> 54717b7f59655cfc59b0d4e4e2fdec5a958b121f
