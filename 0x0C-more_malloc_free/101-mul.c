@@ -1,3 +1,8 @@
+/*
+ * File: 101-mul.c
+ * Auth: Brian Basseh
+ */
+
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
@@ -53,9 +58,8 @@ char *create_xarray(int size)
 
 /**
  * iterate_zeroes - Iterates through a string of numbers containing
- *                  leading zeroes until it hits a non-zero number.
+ * leading zeroes until it hits a non-zero number.
  * @str: The string of numbers to be iterate through.
- *
  * Return: A pointer to the next non-zero element.
  */
 char *iterate_zeroes(char *str)
